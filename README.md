@@ -1,2 +1,2 @@
 # spectraUI
-# Neural Spetroscopic Image Analysis Software
+Neural Spetroscopic Image Analysis Software
