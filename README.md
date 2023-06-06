@@ -1,5 +1,7 @@
-# spectraUI
-Neural Spetroscopic Image Analysis Software
+# SpectraUI - Neural Spetroscopic Image Analysis Software
+
+Thesis for B.Sc. in Physics 2023
+
 - analysis of atomic spectra images
 - spectra recognition
 - wavelengths calculation
